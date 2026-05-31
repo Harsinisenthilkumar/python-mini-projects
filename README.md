@@ -10,4 +10,4 @@ A simple Python calculator that performs:
 ## How to Run
 
 ```bash
-python calculator.py# python-mini-projects
+python calculator.py
